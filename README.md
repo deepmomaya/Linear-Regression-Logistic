@@ -14,6 +14,7 @@ Implementing the `LinearRegression` class with methods for fitting, predicting, 
 - Trains different regression models using batch gradient descent.
 - Records loss during training and plotted it against the step number.
 - Observes effects of regularization on one trained model.
+- Tests the models onto different feature variant sets.
 
 ## Classification
 
